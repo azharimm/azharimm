@@ -13,8 +13,7 @@
 - 🤔 I’m looking for help with any kind of web dev
 - 💬 Talk to me about manga, anime, movies or books
 - 😄 Pronouns: He/His/Him
-- ⚡ Fun fact: Polar bears could eat as many as 86 penguins in a single sitting…
-
+- ⚡ Fun fact: Snakes can help predict earthquakes.
 ### Things i code with:
 
 <p>
