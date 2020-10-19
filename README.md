@@ -13,7 +13,7 @@
 - 🤔 I’m looking for help with any kind of web dev
 - 💬 Talk to me about manga, anime, movies or books
 - 😄 Pronouns: He/His/Him
-- ⚡ Fun fact: The hashtag symbol is technically called an octothorpe.
+- ⚡ Fun fact: Bananas are curved because they grow towards the sun.
 ### Things i code with:
 
 <p>
