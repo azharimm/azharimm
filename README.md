@@ -8,7 +8,7 @@
 ### About me:
 
 - 🔭 I’m currently working for a data analytics based startup company in Bandung, Indonesia
-- 🌱 I’m currently learning Nuxt, Tailwind and Docker
+- 🌱 I’m currently learning Nuxt and Tailwind
 - 👯 I’m looking to collaborate on any kind of web dev
 - 🤔 I’m looking for help with any kind of web dev
 - 💬 Talk to me about manga, anime, movies or books
