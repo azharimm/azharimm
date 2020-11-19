@@ -13,7 +13,7 @@
 - 🤔 I’m looking for help with any kind of web dev
 - 💬 Talk to me about manga, anime, movies or books
 - 😄 Pronouns: He/His/Him
-- ⚡ Fun fact: Snakes can help predict earthquakes.
+- ⚡ Fun fact: -
 ### Things i code with:
 
 <p>
