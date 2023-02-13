@@ -9,7 +9,7 @@
 
 ### About me:
 
-- 🔭 I’m currently working for a s
+- 🔭 I’m currently working for the largest ed tech company in Indonesia, Ruangguru.
 - 🌱 I’m currently learning Nuxt and Tailwind
 - 👯 I’m looking to collaborate on any kind of web dev
 - 🤔 I’m looking for help with any kind of web dev
@@ -52,7 +52,7 @@
 [<img align="left" alt="azharimm | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="azharimm | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[website]: https://azharimm.tk
+[website]: https://azharimm.dev
 [twitter]: https://twitter.com/azharimm
 [youtube]: https://youtube.com/azharimm
 [instagram]: https://instagram.com/azharimmm
