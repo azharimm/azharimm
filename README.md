@@ -9,7 +9,7 @@
 
 ### About me:
 
-- 🔭 I’m currently working for the largest ed tech company in Indonesia, Ruangguru.
+- 🔭 I’m currently open to work
 - 🌱 I’m currently learning Nuxt and Tailwind
 - 👯 I’m looking to collaborate on any kind of web dev
 - 🤔 I’m looking for help with any kind of web dev
